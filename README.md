@@ -121,7 +121,7 @@
   <tr>
     <td><b>11:00</b><br/> (120 min)</td>
     <td>
-      Workshop (Birgit, Markus)<br/>
+      Workshop (Birgit, Marcus)<br/>
       <a href="#verst">Wie kann ein Nicht-Entwickler Entwickler verstehen</a>
     </td>
   </tr>
