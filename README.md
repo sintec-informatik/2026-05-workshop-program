@@ -25,8 +25,8 @@
 
   <tr>
     <td><b>10:00</b><br/> (45min)</td>
-    <td>Leo<br/>Schwierige Kunden</td>
-    <td>Julia<br/>Chatbot Workshop</td>
+    <td>Leonhard Langenheder<br/><a href="sk">Schwierige Kunden</a></td>
+    <td>Julia<br/><a href="chatbot">Chatbot Workshop</a></td>
   </tr>
 
   <tr>
@@ -36,7 +36,7 @@
 
   <tr>
     <td><b>11:00</b><br/> (45min)</td>
-    <td>Michael<br/>Palantir Spurensuche</td>
+    <td>Michael Galuszka<br/><a href="pal">Palantir Spurensuche</a></td>
     <td>Flo<br/>KServe</td>
   </tr>
 
@@ -134,3 +134,17 @@
   </tr>
 
 </table>
+
+
+# Details
+
+<h3 id="sk">Umgang mit schwierigen Kunden - für Entwickler</h3>
+* welche Muster hat "schwieriges" Kundenverhalten
+* warum entstehen solche Situationen 
+* Ideen zur "Entspannung"
+
+<h3 id="chatbot">Chatbot Workshop</h3>
+Wie funktioniert der "Sintec KI-Agent", wie ist er aufgebaut, was kann er und was (noch) nicht? Warum reicht ein reines Sprachmodell wie ChatGPT manchmal nicht aus und wie kann man mit Retrieval-Augmented Generation (RAG) internes Wissen sinnvoll nutzen? Darüber will ich einen Überblick geben - besonders für diejenigen, die sich noch nicht genauer mit diesen Themen auseinandergesetzt haben.
+
+<h3 id="pal">Palantir Spurensuche</h3>
+Palantir verspricht, aus verteilten Daten operative Erkenntnisse in Echtzeit zu erzeugen - für Sicherheitsbehörden, Militär, Gesundheitswesen und Großkonzerne. Doch hinter der technologischen Leistungsfähigkeit stehen fundamentale Fragen: Wer kontrolliert die Datenflüsse, wie transparent sind die Analysemodelle, und welche geopolitischen Abhängigkeiten entstehen dadurch? Der Vortrag analysiert Architektur, Einsatzpraxis und Sicherheitsimplikationen von Palantir - technisch, politisch und strategisch. Im Fokus stehen dabei auch die Einsätze in Deutschland sowie die Verbindungen zwischen Datenanalyse, Machtstrukturen und transatlantischer Sicherheitsarchitektur.
