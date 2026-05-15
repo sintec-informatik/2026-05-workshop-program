@@ -232,5 +232,5 @@ Token sind teuer und werden noch teurer werden.
 Wie schaut ein Ansatz aus, um diese Kosten zu kontrollieren.
 </p>
 
-<h3 id="versteh">Wie kann ein Nicht-Entwickler Entwickler verstehen</h3>
+<h3 id="verst">Wie kann ein Nicht-Entwickler Entwickler verstehen</h3>
 Ein gemeinsames Verständnis zwischen Fachbereich und Entwicklung schaffen — humorvoll, praxisnah und interaktiv.
