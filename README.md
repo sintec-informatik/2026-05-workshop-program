@@ -25,8 +25,8 @@
 
   <tr>
     <td><b>10:00</b><br/> (45min)</td>
-    <td>LDLAN<br/>Schwierige Kunden</td>
-    <td>JABRE<br/>Chatbot Workshop</td>
+    <td>Leo<br/>Schwierige Kunden</td>
+    <td>Julia<br/>Chatbot Workshop</td>
   </tr>
 
   <tr>
@@ -36,8 +36,8 @@
 
   <tr>
     <td><b>11:00</b><br/> (45min)</td>
-    <td>MLGAL<br/>Palantir Spurensuche</td>
-    <td>FNROT<br/>KServe</td>
+    <td>Michael<br/>Palantir Spurensuche</td>
+    <td>Flo<br/>KServe</td>
   </tr>
 
   <tr>
@@ -47,8 +47,8 @@
 
   <tr>
     <td><b>13:30</b><br/> (45min)</td>
-    <td>SASTU<br/>User Story Mapping</td>
-    <td>SNSCH<br/>DATEV CoPilot</td>
+    <td>Sandra<br/>User Story Mapping</td>
+    <td>Stefan<br/>DATEV CoPilot</td>
   </tr>
 
   <tr>
@@ -58,8 +58,8 @@
 
   <tr>
     <td><b>14:30</b><br/> (45min)</td>
-    <td>ARHAA<br/>Modernes CSS</td>
-    <td>VAMIE<br/>KI-Prompt Engineering</td>
+    <td>Alex<br/>Modernes CSS</td>
+    <td>Henry<br/>Tokenzählen in KI Anwendungen</td>
   </tr>
 
   <tr>
@@ -101,8 +101,7 @@
     <td><b>09:00</b><br/> (45min)</td>
     <td>
       Überblick über die Projekte:<br/>
-      BeSt. (Daniel), Kontostammdaten (Way-Lap),<br/>
-      Flo/Sandra für LOON als Backup
+      BeSt. (Daniel), Kontostammdaten (Way-Lap)
     </td>
   </tr>
 
@@ -113,7 +112,7 @@
 
   <tr>
     <td><b>10:00</b><br/> (45min)</td>
-    <td>AOWAL<br/>UX für KI</td>
+    <td>Arno<br/>UX für KI</td>
   </tr>
 
   <tr>
@@ -122,9 +121,9 @@
   </tr>
 
   <tr>
-    <td><b>11:00</b><br/> (45min)</td>
+    <td><b>11:00</b><br/> (120 min)</td>
     <td>
-      Workshop<br/>
+      Workshop (Birgit, Markus)<br/>
       Wie kann ein Nicht-Entwickler Entwickler verstehen
     </td>
   </tr>
