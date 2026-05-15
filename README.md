@@ -25,7 +25,7 @@
 
   <tr>
     <td><b>10:00</b><br/> (45min)</td>
-    <td>Leonhard Langenheder<br/><a href="#sk">Schwierige Kunden</a></td>
+    <td>Michael Galuszka<br/><a href="#pal">Palantir Spurensuche</a></td>
     <td>Julia Brechenmacher<br/><a href="#chatbot">Chatbot Workshop</a></td>
   </tr>
 
@@ -36,7 +36,7 @@
 
   <tr>
     <td><b>11:00</b><br/> (45min)</td>
-    <td>Michael Galuszka<br/><a href="#pal">Palantir Spurensuche</a></td>
+    <td>Leonhard Langenheder<br/><a href="#sk">Schwierige Kunden</a></td>
     <td>Florian Roth<br/><a href="#kserve">KServe</a></td>
   </tr>
 
