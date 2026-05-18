@@ -26,7 +26,7 @@
   <tr>
     <td><b>10:00</b><br/> (45min)</td>
     <td>Michael Galuszka<br/><a href="#pal">Palantir Spurensuche</a></td>
-    <td>Julia Brechenmacher<br/><a href="#chatbot">Chatbot Workshop</a></td>
+    <td>Julia Brechenmacher<br/><a href="#chatbot">SINTEC KI Agent für Dummys</a></td>
   </tr>
 
   <tr>
@@ -143,7 +143,7 @@
   <li>Ideen zur "Entspannung"</li>
 </ul>
 
-<h3 id="chatbot">Chatbot Workshop</h3>
+<h3 id="chatbot">SINTEC KI Agent für Dummys</h3>
 
 <p>
 Wie funktioniert der "Sintec KI-Agent", wie ist er aufgebaut, was kann er und was (noch) nicht?
