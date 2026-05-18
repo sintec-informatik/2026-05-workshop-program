@@ -47,8 +47,8 @@
 
   <tr>
     <td><b>13:30</b><br/> (45min)</td>
-    <td>Sandra Stubenvoll<br/><a href="#usm">User Story Mapping</a></td>
-    <td>Stefan Schäftlmayer<br/><a href="#datev">DATEV CoPilot</a></td>
+    <!--<td>Sandra Stubenvoll<br/><a href="#usm">User Story Mapping</a></td>-->
+    <td colspan="2" align="center">Stefan Schäftlmayer<br/><a href="#datev">DATEV CoPilot</a></td>
   </tr>
 
   <tr>
